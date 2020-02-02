@@ -12,4 +12,4 @@ Whenever you want to run the test, just use this command:
 
 yarn run test
 
-![title](https://github.com/nipuniuthpala/images/blob/master/1.png)
+![title](https://github.com/nipuniuthpala/images/blob/master/Screen%20Shot%202020-02-02%20at%202.56.40%20PM.png)
